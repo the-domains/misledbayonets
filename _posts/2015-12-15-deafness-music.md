@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://vimeo.com/148582361'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - myles
   - cymaspace
@@ -17,8 +17,8 @@ keywords:
   - hard-of-hearing
   - vimeo
 description: 'Myles was born with a profound hearing loss. As his hearing deteriorates, he searches for ways to bridge his passion for music with his Deaf identity. As founder of Portland-based non-profit, CymaSpace, Myles has developed technology that enables sound to be experienced through light and vibration.'
-datePublished: '2015-12-15T04:49:31.364Z'
-dateModified: '2015-12-15T04:48:23.444Z'
+datePublished: '2015-12-15T05:08:28.623Z'
+dateModified: '2015-12-15T05:07:28.855Z'
 author:
   - name: Red Lab Films
     url: 'http://vimeo.com/user20763147'
