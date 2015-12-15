@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[misledbayonets]]></title>
-        <description><![CDATA[misledbayonets]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The music project and brain child of Deaf Musician; Myles de Bastion]]></title>
+        <description><![CDATA[The music project and brain child of Deaf Musician; Myles de Bastion]]></description>
+        <link>https://thegrid.ai/misledbayonets/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 04:23:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 04:49:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/misledbayonets/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DEAFNESS + MUSIC]]></title>
+            <description><![CDATA[<article><h1>DEAFNESS + MUSIC</h1><p>Myles de Bastion a.k.a Misled Bayonets is a musician who also happens to be Deaf. His  search for ways to bridge his passion for music with his Deaf identity led him to develop  technology that enables sound to be experienced as light and vibration. Myles is now using this technology to show how performing arts can be made more  inclusive and engaging for the Deaf & Hard-of-Hearing. Learn more about Myles and his mission at www.cymaspace.org and explore his  inventions at www.audioluxdevices.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2396b8062d3b225ee45cf8af0c0ce8a4b753b7bc.jpg"></article>]]></description>
+            <link>https://vimeo.com/148582361</link>
+            <guid isPermaLink="false">dddb6c2e-faa7-47c6-b329-d446ea777afb</guid>
+            <pubDate>Tue, 15 Dec 2015 04:49:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Deafness + Music]]></title>
             <description><![CDATA[<article><h1>Deafness + Music</h1><p>DEAFNESS + MUSIC from Red Lab Films on Vimeo.</p></article>]]></description>
-            <link>undefineddeafness-music/index.html</link>
+            <link>https://thegrid.ai/misledbayonets/deafness-music/index.html</link>
             <guid isPermaLink="false">5378e422-15f2-49f7-b1ff-629f2e334ab2</guid>
             <pubDate>Tue, 15 Dec 2015 04:23:03 GMT</pubDate>
         </item>
